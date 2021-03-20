@@ -47,11 +47,11 @@ Descarga el proyecto 🗂 y levanta🔥los servicios :
 ** En este repositorio se encuentra la parte front como la parte back del reto, cada una debe ser ejecutada por separado para comenzar con el challenge.
 
 ### Objetivos
-Crea un documento ( qa-challenge-reto1[nombre].docx ) para colocar los resultados de los siguientes objetivos
+Crea un documento ( qa-challenge-reto[nombre].docx ) para colocar los resultados de los siguientes objetivos
 
  1. Identifica los tipos de casos de prueba que estarían enlazadas a las requerimientos propuestos. 
- 2. Menciona que técnica de diseño de casos de prueba usarías para poder generar dichos casos ( qa-challenge-reto1[nombre].docx )
- 3. Identifica, registra y describe los bugs o mejoras que consideres necesarios  ( qa-challenge-reto1[nombre].docx )
+ 2. Menciona que técnica de diseño de casos de prueba usarías para poder generar dichos casos ,
+ 3. Identifica, registra y describe los bugs o mejoras que consideres necesarios .
  3. Implementa los tipos de pruebas automatizadas que consideres necesarios (unitarias, servicios, ui , perfomance), de tal manera que se pueda evaluar los requerimientos solicitados. Se debe crear un proyecto en una carpeta aparte llamada qaChallenge (utiliza el framework de automatización que prefieras y deberas subirlo a tu repositorio). 
 
 
@@ -63,14 +63,15 @@ Crea un documento ( qa-challenge-reto1[nombre].docx ) para colocar los resultado
 El equipo maneja varios ambientes de trabajo (desarrollo, qa, uat, produccion) a lo largo del desarrollo del producto. Consideramos que la calidad debe asegurarse en todo el flujo, por lo tanto diferentes pruebas debes realizarce en cada uno de los ambientes propuestos.
 
 
-Ambientes: ![Flujo de trabajo](workflow.png)
-Niveles de pruebas : ![Pirámide de pruebas](piramidedepruebas.png)
+Ambientes: 
+![Flujo de trabajo](workflow.png)
+Niveles de pruebas : 
+![Pirámide de pruebas](piramidedepruebas.png)
  
 
  ### Objetivos
- Crea un documento ( qa-challenge-reto[nombre].docx ) para colocar los resultados de los siguientes objetivos
 
- 1. Comenta en base a tu criterio que nivel(es) de pruebas aplicaría para cada ambiente (puedes sugerir otros ambientes u estructura si es que lo consideras) ( qa-challenge-reto2[nombre].docx )
+ 1. Comenta en base a tu criterio que nivel(es) de pruebas aplicaría para cada ambiente (puedes sugerir otros ambientes u estructura si es que lo consideras) (Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) y coloca tu respuesta)
 
 
 
@@ -79,7 +80,7 @@ Niveles de pruebas : ![Pirámide de pruebas](piramidedepruebas.png)
 
  ### Priorización de errores 
 
-# Caso:
+### Caso:
 Imagina una herramienta web, desarrollada con el objetivo de proporcionar una versión de ancho de banda ligero (se requiere un uso óptimo alrededor de 50 MB) de una herramienta principalmente utilizada por personas de todo el mundo para comprar productos de segunda mano.
 
 
@@ -100,7 +101,7 @@ Defectos:
 
  ### Agile testing 
 
-# Caso:
+### Caso:
 
 La aplicación web a probar es una plataforma como Mercado Libre. A continuación, podrás encontrar una lista de técnicas y procedimientos utilizados en las pruebas
 
@@ -112,7 +113,8 @@ El equipo de pruebas :
 5. Las pruebas comienzan a estar involucradas en el proceso de desarrollo desde la etapa inicial.
 
  ### Objetivos
-Evalúa si son los procedimientos de la lista son los más adecuados. Brinda una alternativa /  tipo de pruebao mejora para las que no son adecuadas desde tu punto de vista. Crea un documento ( qa-challenge-reto4[nombre].docx ) y coloca tu respuesta
+Evalúa si son los procedimientos de la lista son los más adecuados. Brinda una alternativa /  tipo de pruebao mejora para las que no son adecuadas desde tu punto de vista. (Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) y coloca tu respuesta 
+
 
 Recuerda publicar tus respuestas en el repositorio de tu preferencia y envíanos un correo con el link y tu archivo a: dsanchezb@inlearning.edu.pe
 
