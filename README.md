@@ -71,7 +71,7 @@ Niveles de pruebas :
 
  ### Objetivos
 
- 1. Comenta en base a tu criterio que nivel(es) de pruebas aplicaría para cada ambiente (puedes sugerir otros ambientes u estructura si es que lo consideras) (Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) y coloca tu respuesta)
+ 1. Comenta en base a tu criterio que nivel(es) de pruebas aplicaría para cada ambiente (puedes sugerir otros ambientes u estructura si es que lo consideras) (Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) )
 
 
 
@@ -94,7 +94,7 @@ Defectos:
 
 
  ### Objetivos
- Para el siguiente conjunto de defectos, prioriza del 1 al 6, siendo el primero el más crítico y explique brevemente por qué (puedes incluir alguna suposición). Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) y coloca tu respuesta
+ Para el siguiente conjunto de defectos, prioriza del 1 al 6, siendo el primero el más crítico y explique brevemente por qué (puedes incluir alguna suposición). Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) 
 
 
  # RETO 4
@@ -113,7 +113,7 @@ El equipo de pruebas :
 5. Las pruebas comienzan a estar involucradas en el proceso de desarrollo desde la etapa inicial.
 
  ### Objetivos
-Evalúa si son los procedimientos de la lista son los más adecuados. Brinda una alternativa /  tipo de pruebao mejora para las que no son adecuadas desde tu punto de vista. (Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) y coloca tu respuesta 
+Evalúa si son los procedimientos de la lista son los más adecuados. Brinda una alternativa /  tipo de pruebao mejora para las que no son adecuadas desde tu punto de vista. (Coloca tus respuestas en el  documento ( qa-challenge-reto[nombre].docx ) 
 
 
 Recuerda publicar tus respuestas en el repositorio de tu preferencia y envíanos un correo con el link y tu archivo a: dsanchezb@inlearning.edu.pe
