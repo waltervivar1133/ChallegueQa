@@ -26,7 +26,7 @@ const middleware = (req, res, next) => {
 
 app.post('/register', middleware, (req, res) => {
   const { email, password } = req.body
-  passwordService.length(password) > 6 && emailService.validate(email)
+  passwordService.length(password) > 5 && emailService.validate(email)
     ? res.json({
         code: 201,
         msg: 'SAVED'
@@ -39,10 +39,10 @@ app.post('/register', middleware, (req, res) => {
 
 app.post('/login', middleware, (req, res) => {
   const { email, password } = req.body
-  email === 'diego@lacafetalab.pe' && password === 'password'
+  //email === 'email' && password === 'password'
     ? res.json({
         code: 201,
-        msg: 'LOGIN'
+        msg: 'LOGIN VALID'
       })
     : res.status(401).json({
         code: 997,
