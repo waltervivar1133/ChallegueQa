@@ -36,15 +36,6 @@ El equipo de desarrollo realizo sus tareas y ahora te toca a ti certificar que d
 ### Pasos
 
 Descarga el proyecto 🗂 y levanta🔥los servicios :
-
-    $ git clone https://github.com/djego/recruiting-qa-challenge.git
-    $ cd recruiting-qa-challenge
-    $ cd back/
-    $ npm run start
-    $ cd ..
-    $ cd front/
-    $ npm run start
-    
     
     $ git clone https://github.com/AdmiPAO/ChallengeQA.git
     $ cd ChallengeQA
