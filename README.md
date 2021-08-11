@@ -1,6 +1,7 @@
 # QA challenge
 
 Hola, bienvenid(@) a la prueba para el puesto QA Engineer, a continuación encontrarás una serie de retos que deberás realizar, recuerda que estos no son ejercicios de calificación, no hay respuestas válidas o inválidas,
+
 # RETO 1
 En el área de TI de UTP surgió el requerimiento de realizar un nuevo proceso de autenticación. Nuestro scrum master registro las siguientes requerimientos:
 
@@ -118,7 +119,7 @@ Evalúa si son los procedimientos de la lista son los más adecuados. Brinda una
 
 Recuerda publicar tus respuestas en el repositorio de tu preferencia y envíanos un correo con el link y tu archivo a: dsanchezb@inlearning.edu.pe
 
-Ante cualquier duda puedes enviar un correo a dsanchezb@inlearning.edu.pe y estaremos encantados de ayudarte. 
+Ante cualquier duda puedes enviar un correo a pao_admin@utp.edu.pe y estaremos encantados de ayudarte. 
 
 Exitos y gracias por tu tiempo!😃
 
