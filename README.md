@@ -44,6 +44,15 @@ Descarga el proyecto 🗂 y levanta🔥los servicios :
     $ cd ..
     $ cd front/
     $ npm run start
+    
+    
+    $ git clone https://github.com/AdmiPAO/ChallengeQA.git
+    $ cd ChallengeQA
+    $ cd back/
+    $ npm run start
+    $ cd ..
+    $ cd front/
+    $ npm run start
 
 ** En este repositorio se encuentra la parte front como la parte back del reto, cada una debe ser ejecutada por separado para comenzar con el challenge.
 
